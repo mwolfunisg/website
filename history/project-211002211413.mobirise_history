@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-09-12_1217",
-    "currentPage": "index.html",
+    "currentPage": "research.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -11,12 +11,16 @@
       ]
     },
     "versionFirst": "4.2.5",
-    "uniqCompNum": 34,
+    "uniqCompNum": 33,
     "versionPublish": "5.2.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [],
     "imageResize": true,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
+    "gitHubName": "mwolfunisg",
+    "gitHubPath": "",
     "publishChangesOnly": false
   },
   "pages": {
@@ -223,7 +227,7 @@
             "overlayOpacity": 0.7
           },
           "title": "Vita<br><br>",
-          "caption": "<p><b>A detailed version of my <a href=\"assets/files/Wolf-CV.pdf\" target=\"_blank\" class=\"text-success text-primary\">CV</a>.<br><br></b></p><p><b style=\"font-size: 1.25rem;\">Current positions:<br></b><span style=\"font-size: 1.25rem;\"><br>Assistant Professor of Monetary Economics (with tenure track), University of St. Gallen (since 2021)<br>Research Affiliate, International Macroeconomics and Finance (IMF), CEPR (since 2019)</span></p><p><span style=\"font-size: 1.25rem;\"><b>Previous positions:<br></b></span><span style=\"font-size: 1.25rem;\"><b><br></b>Assistant Professor, <a href=\"https://econ.univie.ac.at/\" class=\"text-success\" target=\"_blank\">University of Vienna</a> (2017-2021)<br>Research Assistant, <a href=\"https://uni-tuebingen.de/de/19615\" class=\"text-success\" target=\"_blank\">University of Tübingen</a> (2015-2017)</span></p><p><span style=\"font-size: 1.25rem;\"><b>Education:&nbsp;<br></b></span><span style=\"font-size: 1.25rem;\"><b><br></b>PhD in Economics, <a href=\"https://www.bgse.uni-bonn.de/en\" target=\"_blank\" class=\"text-success\">Bonn Graduate School of Economics</a>, 2017<br></span><span style=\"font-size: 1.25rem;\">MSc in Economics, University of Bonn, 2016<br></span><span style=\"font-size: 1.25rem;\">BSc in Economics, University of Konstanz, 2011</span></p>",
+          "caption": "<p><b>A detailed version of my <a href=\"https://www.dropbox.com/s/2j38vhis939g9xt/Wolf_CV_Nov2019.pdf?dl=0\" target=\"_blank\" class=\"text-success\">CV</a>.<br><br></b></p><p><b style=\"font-size: 1.25rem;\">Current positions:<br></b><span style=\"font-size: 1.25rem;\"><br>Assistant Professor of Monetary Economics (with tenure track), University of St. Gallen (since 2021)<br>Research Affiliate, International Macroeconomics and Finance (IMF), CEPR (since 2019)</span></p><p><span style=\"font-size: 1.25rem;\"><b>Previous positions:<br></b></span><span style=\"font-size: 1.25rem;\"><b><br></b>Assistant Professor, <a href=\"https://econ.univie.ac.at/\" class=\"text-success\" target=\"_blank\">University of Vienna</a> (2017-2021)<br>Research Assistant, <a href=\"https://uni-tuebingen.de/de/19615\" class=\"text-success\" target=\"_blank\">University of Tübingen</a> (2015-2017)</span></p><p><span style=\"font-size: 1.25rem;\"><b>Education:&nbsp;<br></b></span><span style=\"font-size: 1.25rem;\"><b><br></b>PhD in Economics, <a href=\"https://www.bgse.uni-bonn.de/en\" target=\"_blank\" class=\"text-success\">Bonn Graduate School of Economics</a>, 2017<br></span><span style=\"font-size: 1.25rem;\">MSc in Economics, University of Bonn, 2016<br></span><span style=\"font-size: 1.25rem;\">BSc in Economics, University of Konstanz, 2011</span></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -304,7 +308,7 @@
             "overlayOpacity": 0.7
           },
           "title": "Teaching<br><br>",
-          "caption": "<p><b>Current teaching:<br><br></b><span style=\"font-size: 1.25rem;\">Fall 2021</span><span style=\"font-size: 1.25rem;\"><br>International Finance, BA level, University of St. Gallen<br></span></p><p><span style=\"font-size: 1.25rem;\">All material can be found on <a href=\"https://learning.unisg.ch/\" class=\"text-success\" target=\"_blank\">canvas</a></span></p><p><span style=\"font-size: 1.25rem;\"><i><br></i><b>Past teaching:<br></b></span><span style=\"font-size: 1.25rem;\"><br>Lecturer: Advanced Macroeconomics III: Money and Prices, MSc level, University of St Gallen (2021)<br>Lecturer: Macroeconomics for Business Students, BA level, University of Vienna (2018-2020)<br>Lecturer: International Macroeconomics, MA level, University of Vienna (2018-2019)<br>Lecturer: Monetary Economics, MSc level, University of Tübingen (2017-2019)<br>Class Teacher: Growth and Business Cycles, MA level, University of Vienna (2017-2018)<br></span><span style=\"font-size: 1.25rem;\">Class Teacher: Advanced Tools, Summer Course Tools for Macroeconomists, LSE (2016)<br></span><span style=\"font-size: 1.25rem;\">Class Teacher: The Essentials, Summer Course Tools for Macroeconomists, LSE (2016)<br></span><span style=\"font-size: 1.25rem;\">BSc / MSc thesis seminar, University of Tübingen (2015-2017)<br></span><span style=\"font-size: 1.25rem;\">Mini course: Currency Crises, Bank of England (2015)<br></span><span style=\"font-size: 1.25rem;\">TA: EC210 Macroeconomic Principles, LSE (2014-2015)<br></span><span style=\"font-size: 1.25rem;\">TA: International Economics, MSc level, University of Bonn (2014)<br></span><span style=\"font-size: 1.25rem;\">TA: Macroeconomics, PhD level, University of Bonn (2013-2014)<br></span><span style=\"font-size: 1.25rem;\">TA: Undergraduate Mathematics for Economists I-II, University of Konstanz (2009-2011)</span></p>",
+          "caption": "<p><b>Current teaching:<br><br></b><span style=\"font-size: 1.25rem;\">Spring 2021<br></span><span style=\"font-size: 1.25rem;\">Advanced Macroeconomics III: Money and Prices, MSc level, University of St. Gallen<br>International Finance, BA level, University of St. Gallen<br></span></p><p><span style=\"font-size: 1.25rem;\">All material can be found on <a href=\"https://learning.unisg.ch/\" class=\"text-success\" target=\"_blank\">canvas</a></span></p><p><span style=\"font-size: 1.25rem;\"><i><br></i><b>Past teaching:<br></b></span><span style=\"font-size: 1.25rem;\"><b><br></b>Lecturer: Macroeconomics for Business Students, BA level, University of Vienna (2018-2020)<br>Lecturer: International Macroeconomics, MA level, University of Vienna (2018-2019)<br>Lecturer: Monetary Economics, MSc level, University of Tübingen (2017-2019)<br>Class Teacher: Growth and Business Cycles, MA level, University of Vienna (2017-2018)<br></span><span style=\"font-size: 1.25rem;\">Class Teacher: Advanced Tools, Summer Course Tools for Macroeconomists, LSE (2016)<br></span><span style=\"font-size: 1.25rem;\">Class Teacher: The Essentials, Summer Course Tools for Macroeconomists, LSE (2016)<br></span><span style=\"font-size: 1.25rem;\">BSc / MSc thesis seminar, University of Tübingen (2015-2017)<br></span><span style=\"font-size: 1.25rem;\">Mini course: Currency Crises, Bank of England (2015)<br></span><span style=\"font-size: 1.25rem;\">TA: EC210 Macroeconomic Principles, LSE (2014-2015)<br></span><span style=\"font-size: 1.25rem;\">TA: International Economics, MSc level, University of Bonn (2014)<br></span><span style=\"font-size: 1.25rem;\">TA: Macroeconomics, PhD level, University of Bonn (2013-2014)<br></span><span style=\"font-size: 1.25rem;\">TA: Undergraduate Mathematics for Economists I-II, University of Konstanz (2009-2011)</span></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
