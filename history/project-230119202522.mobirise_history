@@ -17,6 +17,10 @@
     "screenshot": "screenshot.png",
     "siteFonts": [],
     "imageResize": true,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
+    "gitHubName": "mwolfunisg",
+    "gitHubPath": "",
     "publishChangesOnly": false
   },
   "pages": {
