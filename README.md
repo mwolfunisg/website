@@ -3,7 +3,7 @@ I am an Assistant Professor of Monetary Economics at the University of St. Galle
 I am a macroeconomist with broad research interests in international economics, monetary economics and economic growth. 
 
 ### News
-- 04/25 New working paper "Fiscal Stagnation'' (with Luca Fornaro)
+- 04/25 New working paper "Fiscal Stagnation" (with Luca Fornaro)
 - 12/24 I was awarded an SNSF Starting Grant (Swiss ERC Starting Grant equivalent) for my project "Debt, Growth, and the Macroeconomy: A Unified Perspective (DEBTANDGROWTH)"
 - 11/24 My paper "The Global Financial Resource Curse" was accepted for publication at the American Economic Review
 - 10-12/24 I am visiting the Federal Reserve Bank of San Francisco
@@ -31,8 +31,8 @@ I am a macroeconomist with broad research interests in international economics, 
 *European Economic Review*, 88, September 2016, 42-66 (SI). <a href="./ddd_Final.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
 
 ### Working Papers
-- Fiscal Stagnation (with Luca Fornaro).  
-April 2025. <a href="fistag_february2025.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
+- <a href="https://cepr.org/publications/dp20149" target="_blank">Fiscal Stagnation</a> (with Luca Fornaro).  
+*CEPR Discussion Paper*, 20149, April 2025. <a href="fistag_february2025.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
 - <a href="https://cepr.org/publications/dp16837" target="_blank">Fear of Hiking? Rising Interest Rates in Times of High Public Debt</a> (with Leopold Zessner-Spitzenberg).  
 *CEPR Discussion Paper*, 16837, January 2024. <a href="FearOfHiking_Jan2024.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
 - <a href="https://cepr.org/publications/dp16416" target="_blank">Monetary Policy in the Age of Automation</a> (with Luca Fornaro).  
