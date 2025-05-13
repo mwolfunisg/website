@@ -3,11 +3,11 @@ I am an Assistant Professor of Monetary Economics at the University of St. Galle
 I am a macroeconomist with broad research interests in international economics, monetary economics and economic growth. 
 
 ### News
+- 05/25 I received the University of St. Gallen's Latsis Prize for outstanding early-career economic research
 - 04/25 New working paper "Fiscal Stagnation" (with Luca Fornaro)
 - 12/24 I was awarded an SNSF Starting Grant (Swiss ERC Starting Grant equivalent) for my project "Debt, Growth, and the Macroeconomy: A Unified Perspective (DEBTANDGROWTH)"
 - 11/24 My paper "The Global Financial Resource Curse" was accepted for publication at the American Economic Review
 - 10-12/24 I am visiting the Federal Reserve Bank of San Francisco
-- 8/24 I am visiting the Bank of Finland
 
 ### Publications
 - <a href="https://www.aeaweb.org/articles?id=10.1257/aer.20211792" target="_blank">The Global Financial Resource Curse</a> (with Gianluca Benigno and Luca Fornaro).   
