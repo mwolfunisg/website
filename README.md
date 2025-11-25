@@ -3,6 +3,7 @@ I am an Assistant Professor of Monetary Economics at the University of St. Galle
 I am a macroeconomist with broad research interests in international economics, monetary economics and economic growth. 
 
 ### News
+- 11/25 I've been promoted to Associate Professor (with tenure), starting 02/26
 - 10/25 New working paper "Tariffs and Technological Hegemony" (with Luca Fornaro)
 - 05/25 I received the University of St. Gallen's Latsis Prize for outstanding early-career research
 - 04/25 New working paper "Fiscal Stagnation" (with Luca Fornaro)
