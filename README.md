@@ -1,6 +1,6 @@
-I am an Associate Professor of Monetary Economics at the University of St. Gallen (HSG). I am also a Director of the Swiss Institute for International Economics and Applied Economic Research (SIAW) at HSG, and a Research Affiliate at the CEPR. I obtained my PhD in Economics from the University of Bonn in 2017.
+I am an Associate Professor of Monetary Economics at the University of St. Gallen, a Director of the Swiss Institute for International Economics and Applied Economic Research (SIAW-HSG), and a Research Affiliate at the CEPR. I obtained my PhD in Economics from the University of Bonn in 2017.
 
-I am a macroeconomist with broad research interests in international economics, monetary economics and economic growth. 
+I am a macroeconomist with broad research interests in international economics, monetary economics and economic growth. My work is mostly in applied theory. I have been awarded a 2025 SNSF Starting Grant (Swiss ERC Starting Grant equivalent) for my work connecting debt dynamics and endogenous productivity growth.
 
 ### News
 - 02/26 I've been promoted to Associate Professor (with tenure)
