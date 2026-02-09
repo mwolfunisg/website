@@ -1,9 +1,10 @@
-I am an Assistant Professor of Monetary Economics at the University of St. Gallen, where I am based at the Swiss Institute for International Economics and Applied Economic Research (SIAW). Since 2019, I am also a Research Affiliate at the CEPR. I obtained my PhD in Economics from the University of Bonn in 2017.
+I am an Associate Professor of Monetary Economics at the University of St. Gallen (HSG). I am also a Director of the Swiss Institute for International Economics and Applied Economic Research (SIAW) at HSG, and a Research Affiliate at the CEPR. I obtained my PhD in Economics from the University of Bonn in 2017.
 
 I am a macroeconomist with broad research interests in international economics, monetary economics and economic growth. 
 
 ### News
-- 11/25 I've been promoted to Associate Professor (with tenure), starting 02/26
+- 02/26 I've been promoted to Associate Professor (with tenure)
+- 01/26 New working paper "Industrial Policies, Global Imbalances and Technological Hegemony" (With Ambrogio Cesa-Bianchi, Andrea Ferrero and Luca Fornaro)
 - 10/25 New working paper "Tariffs and Technological Hegemony" (with Luca Fornaro)
 - 05/25 I received the University of St. Gallen's Latsis Prize for outstanding early-career research
 - 04/25 New working paper "Fiscal Stagnation" (with Luca Fornaro)
@@ -33,8 +34,10 @@ I am a macroeconomist with broad research interests in international economics, 
 *European Economic Review*, 88, September 2016, 42-66 (SI). <a href="./ddd_Final.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
 
 ### Working Papers
-- Tariffs and Technological Hegemony (with Luca Fornaro).  
-*Working paper*, October 2025. <a href="tradetech_oct2025.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
+- Industrial Policies, Global Imbalances and Technological Hegemony (with Ambrogio Cesa-Bianchi, Andrea Ferrero and Luca Fornaro)
+*Working paper*, January 2026. <a href="ipgith_jan2026.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
+- <a href="https://cepr.org/publications/dp20826" target="_blank">Tariffs and Technological Hegemony</a> (with Luca Fornaro).  
+*CEPR Discussion Paper*, 20826, October 2025. <a href="tradetech_oct2025.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
 - <a href="https://cepr.org/publications/dp20149" target="_blank">Fiscal Stagnation</a> (with Luca Fornaro).  
 *CEPR Discussion Paper*, 20149, April 2025. <a href="fistag_february2025.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
 - <a href="https://cepr.org/publications/dp16837" target="_blank">Fear of Hiking? Rising Interest Rates in Times of High Public Debt</a> (with Leopold Zessner-Spitzenberg).  
@@ -48,6 +51,5 @@ I am a macroeconomist with broad research interests in international economics, 
 
 ### Current Teaching
 - Monetary Economics (Bachelor).
-- International Economics (Bachelor).
 - Advanced Macroeconomics III (Master).
 - International Economics (Master).
