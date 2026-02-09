@@ -34,7 +34,7 @@ I am a macroeconomist with broad research interests in international economics, 
 *European Economic Review*, 88, September 2016, 42-66 (SI). <a href="./ddd_Final.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
 
 ### Working Papers
-- Industrial Policies, Global Imbalances and Technological Hegemony (with Ambrogio Cesa-Bianchi, Andrea Ferrero and Luca Fornaro)
+- Industrial Policies, Global Imbalances and Technological Hegemony (with Ambrogio Cesa-Bianchi, Andrea Ferrero and Luca Fornaro).  
 *Working paper*, January 2026. <a href="ipgith_jan2026.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
 - <a href="https://cepr.org/publications/dp20826" target="_blank">Tariffs and Technological Hegemony</a> (with Luca Fornaro).  
 *CEPR Discussion Paper*, 20826, October 2025. <a href="tradetech_oct2025.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
