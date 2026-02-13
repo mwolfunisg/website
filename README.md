@@ -4,10 +4,11 @@ I am a macroeconomist with broad research interests in international economics, 
 
 ### News
 - 02/26 I've been promoted to Associate Professor (with tenure)
+- 02/26 New working paper "Financial Dominance and Macroeconomic Expectations" (with Leopold Zessner-Spitzenberg)
 - 01/26 New working paper "Industrial Policies, Global Imbalances and Technological Hegemony" (With Ambrogio Cesa-Bianchi, Andrea Ferrero and Luca Fornaro)
 - 10/25 New working paper "Tariffs and Technological Hegemony" (with Luca Fornaro)
-- 05/25 I received the University of St. Gallen's Latsis Prize for outstanding early-career research
 - 04/25 New working paper "Fiscal Stagnation" (with Luca Fornaro)
+- 04/25 I received the University of St. Gallen's Latsis Prize for outstanding early-career research
 - 12/24 I was awarded an SNSF Starting Grant (Swiss ERC Starting Grant equivalent) for my project "Debt, Growth, and the Macroeconomy: A Unified Perspective (DEBTANDGROWTH)"
 - 11/24 My paper "The Global Financial Resource Curse" was accepted for publication at the American Economic Review
 - 10-12/24 I am visiting the Federal Reserve Bank of San Francisco
@@ -34,6 +35,8 @@ I am a macroeconomist with broad research interests in international economics, 
 *European Economic Review*, 88, September 2016, 42-66 (SI). <a href="./ddd_Final.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
 
 ### Working Papers
+- Financial Dominance and Macroeconomic Expectations (with Leopold Zessner-Spitzenberg).
+*Working paper*, February 2026. <a href="dominance_feb2026.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
 - Industrial Policies, Global Imbalances and Technological Hegemony (with Ambrogio Cesa-Bianchi, Andrea Ferrero and Luca Fornaro).  
 *Working paper*, January 2026. <a href="ipgith_jan2026.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
 - <a href="https://cepr.org/publications/dp20826" target="_blank">Tariffs and Technological Hegemony</a> (with Luca Fornaro).  
