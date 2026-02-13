@@ -35,7 +35,7 @@ I am a macroeconomist with broad research interests in international economics, 
 *European Economic Review*, 88, September 2016, 42-66 (SI). <a href="./ddd_Final.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
 
 ### Working Papers
-- Financial Dominance and Macroeconomic Expectations (with Leopold Zessner-Spitzenberg).   
+- Financial Dominance and Macroeconomic Expectations (with Leopold Zessner-Spitzenberg).  
 *Working paper*, February 2026. <a href="dominance_feb2026.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
 - Industrial Policies, Global Imbalances and Technological Hegemony (with Ambrogio Cesa-Bianchi, Andrea Ferrero and Luca Fornaro).  
 *Working paper*, January 2026. <a href="ipgith_jan2026.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
