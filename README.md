@@ -3,6 +3,7 @@ I am an Associate Professor of Monetary Economics at the University of St. Galle
 I am a macroeconomist with broad research interests in international economics, monetary economics and economic growth. My work is mostly in applied theory. I have been awarded a 2025 SNSF Starting Grant (Swiss ERC Starting Grant equivalent) for my work connecting debt dynamics and endogenous productivity growth.
 
 ### News
+- 04/26 New working paper "Macroeconomic Policies for AI" (with Luca Fornaro)
 - 02/26 I've been promoted to Associate Professor (with tenure)
 - 02/26 New working paper "Financial Dominance and Macroeconomic Expectations" (with Leopold Zessner-Spitzenberg)
 - 01/26 New working paper "Industrial Policies, Global Imbalances and Technological Hegemony" (With Ambrogio Cesa-Bianchi, Andrea Ferrero and Luca Fornaro)
@@ -35,6 +36,8 @@ I am a macroeconomist with broad research interests in international economics, 
 *European Economic Review*, 88, September 2016, 42-66 (SI). <a href="./ddd_Final.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
 
 ### Working Papers
+- Macroeconomic Policies for AI (with Luca Fornaro).  
+*Working paper*, April 2026. <a href="AIslump_april2026.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
 - <a href="https://cepr.org/publications/dp21161" target="_blank">Financial Dominance and Macroeconomic Expectations</a> (with Leopold Zessner-Spitzenberg).  
 *CEPR Discussion Paper*, 21161, February 2026. <a href="dominance_feb2026.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
 - Industrial Policies, Global Imbalances and Technological Hegemony (with Ambrogio Cesa-Bianchi, Andrea Ferrero and Luca Fornaro).  
