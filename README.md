@@ -7,7 +7,7 @@ I am a macroeconomist with broad research interests in international economics, 
 - 04/26 New working paper "Macroeconomic Policies for AI" (with Luca Fornaro)
 - 02/26 I've been promoted to Associate Professor (with tenure)
 - 02/26 New working paper "Financial Dominance and Macroeconomic Expectations" (with Leopold Zessner-Spitzenberg)
-- 01/26 New working paper "Industrial Policies, Global Imbalances and Technological Hegemony" (With Ambrogio Cesa-Bianchi, Andrea Ferrero and Luca Fornaro)
+- 01/26 New working paper "Industrial Policies, Global Imbalances and Technological Hegemony" (with Ambrogio Cesa-Bianchi, Andrea Ferrero and Luca Fornaro)
 - 10/25 New working paper "Tariffs and Technological Hegemony" (with Luca Fornaro)
 - 08/25 Launch of my Starting Grant "Debt, Growth and the Macroeconomy: A Unified Perspective (DEBTANDGROWTH)", duration 4 years
 - 04/25 New working paper "Fiscal Stagnation" (with Luca Fornaro)
