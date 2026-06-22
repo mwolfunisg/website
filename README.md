@@ -9,6 +9,7 @@ I am a macroeconomist with broad research interests in international economics, 
 - 02/26 New working paper "Financial Dominance and Macroeconomic Expectations" (with Leopold Zessner-Spitzenberg)
 - 01/26 New working paper "Industrial Policies, Global Imbalances and Technological Hegemony" (With Ambrogio Cesa-Bianchi, Andrea Ferrero and Luca Fornaro)
 - 10/25 New working paper "Tariffs and Technological Hegemony" (with Luca Fornaro)
+- 08/25 Launch of my Starting Grant "Debt, Growth and the Macroeconomy: A Unified Perspective (DEBTANDGROWTH)", duration 4 years
 - 04/25 New working paper "Fiscal Stagnation" (with Luca Fornaro)
 - 04/25 I received the University of St. Gallen's Latsis Prize for outstanding early-career research
 
@@ -41,7 +42,7 @@ I am a macroeconomist with broad research interests in international economics, 
 - <a href="https://cepr.org/publications/dp21161" target="_blank">Financial Dominance and Macroeconomic Expectations</a> (with Leopold Zessner-Spitzenberg).  
 *CEPR Discussion Paper*, 21161, February 2026. <a href="dominance_feb2026.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
 - <a href="https://cepr.org/publications/dp20826" target="_blank">Tariffs and Technological Hegemony</a> (with Luca Fornaro).  
-*CEPR Discussion Paper*, 20826, First version: October 2025, This version: June 2026. <a href="tradetech_june2026.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
+*CEPR Discussion Paper*, 20826, First version: October 2025, This version: June 2026. *Revise and Resubmit at IMF Economic Review* <a href="tradetech_june2026.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
 - <a href="https://cepr.org/publications/dp20149" target="_blank">Fiscal Stagnation</a> (with Luca Fornaro).  
 *CEPR Discussion Paper*, 20149, First version: April 2025, This version: June 2026. <a href="fistag_june2026.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
 - <a href="https://cepr.org/publications/dp16837" target="_blank">Fear of Hiking? Rising Interest Rates in Times of High Public Debt</a> (with Leopold Zessner-Spitzenberg).  
