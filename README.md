@@ -3,6 +3,7 @@ I am an Associate Professor of Monetary Economics at the University of St. Galle
 I am a macroeconomist with broad research interests in international economics, monetary economics and economic growth. My work is mostly in applied theory. I have been awarded a 2025 SNSF Starting Grant (Swiss ERC Starting Grant equivalent) for my work connecting debt dynamics and endogenous productivity growth.
 
 ### News
+- 06/26 New versions of my papers "Fiscal Stagnation" and "Tariffs and Technological Hegemony"
 - 04/26 New working paper "Macroeconomic Policies for AI" (with Luca Fornaro)
 - 02/26 I've been promoted to Associate Professor (with tenure)
 - 02/26 New working paper "Financial Dominance and Macroeconomic Expectations" (with Leopold Zessner-Spitzenberg)
@@ -10,9 +11,6 @@ I am a macroeconomist with broad research interests in international economics, 
 - 10/25 New working paper "Tariffs and Technological Hegemony" (with Luca Fornaro)
 - 04/25 New working paper "Fiscal Stagnation" (with Luca Fornaro)
 - 04/25 I received the University of St. Gallen's Latsis Prize for outstanding early-career research
-- 12/24 I was awarded an SNSF Starting Grant (Swiss ERC Starting Grant equivalent) for my project "Debt, Growth, and the Macroeconomy: A Unified Perspective (DEBTANDGROWTH)"
-- 11/24 My paper "The Global Financial Resource Curse" was accepted for publication at the American Economic Review
-- 10-12/24 I am visiting the Federal Reserve Bank of San Francisco
 
 ### Publications
 - <a href="https://www.aeaweb.org/articles?id=10.1257/aer.20211792" target="_blank">The Global Financial Resource Curse</a> (with Gianluca Benigno and Luca Fornaro).   
@@ -43,9 +41,9 @@ I am a macroeconomist with broad research interests in international economics, 
 - <a href="https://cepr.org/publications/dp21161" target="_blank">Financial Dominance and Macroeconomic Expectations</a> (with Leopold Zessner-Spitzenberg).  
 *CEPR Discussion Paper*, 21161, February 2026. <a href="dominance_feb2026.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
 - <a href="https://cepr.org/publications/dp20826" target="_blank">Tariffs and Technological Hegemony</a> (with Luca Fornaro).  
-*CEPR Discussion Paper*, 20826, October 2025. <a href="tradetech_oct2025.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
+*CEPR Discussion Paper*, 20826, First version: October 2025, This version: June 2026. <a href="tradetech_june2026.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
 - <a href="https://cepr.org/publications/dp20149" target="_blank">Fiscal Stagnation</a> (with Luca Fornaro).  
-*CEPR Discussion Paper*, 20149, April 2025. <a href="fistag_february2025.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
+*CEPR Discussion Paper*, 20149, First version: April 2025, This version: June 2026. <a href="fistag_june2026.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
 - <a href="https://cepr.org/publications/dp16837" target="_blank">Fear of Hiking? Rising Interest Rates in Times of High Public Debt</a> (with Leopold Zessner-Spitzenberg).  
 *CEPR Discussion Paper*, 16837, January 2024. <a href="FearOfHiking_Jan2024.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
 - <a href="https://cepr.org/publications/dp16416" target="_blank">Monetary Policy in the Age of Automation</a> (with Luca Fornaro).  
@@ -54,6 +52,7 @@ I am a macroeconomist with broad research interests in international economics, 
 ### Other Writings
 - <a href="https://cepr.org/publications/dp14529" target="_blank">Covid-19 Coronavirus and Macroeconomic Policy</a> (with Luca Fornaro).  
 *CEPR Discussion Paper* 14529, March 2020. <a href="corona_v2.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
+- <a href="https://legrandcontinent.eu/fr/2026/05/12/pourquoi-le-dollar-est-de-nouveau-un-piege-imperial/" target="_blank">Pourquoi le dollar est de nouveau un piège impérial</a> (with Gianluca Benigno and Luca Fornaro), article written for Le Grand Continent (in French), May 2025.
 
 ### Current Teaching
 - Monetary Economics (Bachelor).
