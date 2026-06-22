@@ -50,9 +50,9 @@ I am a macroeconomist with broad research interests in international economics, 
 *CEPR Discussion Paper*, 16416, September 2022. <a href="mpaut_sept2022.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
 
 ### Other Writings
+- <a href="https://legrandcontinent.eu/fr/2026/05/12/pourquoi-le-dollar-est-de-nouveau-un-piege-imperial/" target="_blank">Pourquoi le dollar est de nouveau un piège impérial</a> (with Gianluca Benigno and Luca Fornaro), article written for Le Grand Continent (in French), May 2025.  
 - <a href="https://cepr.org/publications/dp14529" target="_blank">Covid-19 Coronavirus and Macroeconomic Policy</a> (with Luca Fornaro).  
 *CEPR Discussion Paper* 14529, March 2020. <a href="corona_v2.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
-- <a href="https://legrandcontinent.eu/fr/2026/05/12/pourquoi-le-dollar-est-de-nouveau-un-piege-imperial/" target="_blank">Pourquoi le dollar est de nouveau un piège impérial</a> (with Gianluca Benigno and Luca Fornaro), article written for Le Grand Continent (in French), May 2025.
 
 ### Current Teaching
 - Monetary Economics (Bachelor).
