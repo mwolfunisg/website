@@ -37,7 +37,7 @@ I am a macroeconomist with broad research interests in international economics, 
 ### Working Papers
 - <a href="AIslump_april2026.pdf" target="_blank">Macroeconomic Policies for AI</a> (with Luca Fornaro).  
 *CEPR Discussion Paper*, 21412, April 2026. <a href="https://cepr.org/publications/dp21412" target="_blank"><img border="0" alt="X" src="cepr.png" width="30" height="30"></a>  <a href="https://cepr.org/voxeu/columns/macroeconomic-policies-ai" target="_blank"><img border="0" alt="X" src="voxeu.png" width="24" height="24"></a>
-- <a href="ipgith_jan2026.pdf" target="_blank">Industrial Policies, Global Imbalances and Technological Hegemony</a> (with Ambrogio Cesa-Bianchi, Andrea Ferrero and Luca Fornaro). 
+- <a href="ipgith_jan2026.pdf" target="_blank">Industrial Policies, Global Imbalances and Technological Hegemony</a> (with Ambrogio Cesa-Bianchi, Andrea Ferrero and Luca Fornaro).   
 *CEPR Discussion Paper*, 21253, March 2026.  <a href="https://cepr.org/publications/dp21253" target="_blank"><img border="0" alt="X" src="cepr.png" width="30" height="30"></a>  <a href="https://cepr.org/voxeu/columns/industrial-policies-global-imbalances-and-technological-hegemony" target="_blank"><img border="0" alt="X" src="voxeu.png" width="24" height="24"></a> 
 - <a href="https://cepr.org/publications/dp21161" target="_blank">Financial Dominance and Macroeconomic Expectations</a> (with Leopold Zessner-Spitzenberg).  
 *CEPR Discussion Paper*, 21161, February 2026. <a href="dominance_feb2026.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
