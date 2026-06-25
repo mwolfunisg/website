@@ -41,10 +41,10 @@ I am a macroeconomist with broad research interests in international economics, 
 *CEPR Discussion Paper*, 21253, March 2026.  <a href="https://cepr.org/publications/dp21253" target="_blank"><img border="0" alt="X" src="cepr.png" width="30" height="30"></a>  <a href="https://cepr.org/voxeu/columns/industrial-policies-global-imbalances-and-technological-hegemony" target="_blank"><img border="0" alt="X" src="voxeu.png" width="24" height="24"></a> 
 - <a href="https://cepr.org/publications/dp21161" target="_blank">Financial Dominance and Macroeconomic Expectations</a> (with Leopold Zessner-Spitzenberg).  
 *CEPR Discussion Paper*, 21161, February 2026. <a href="dominance_feb2026.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
-- <a href="https://cepr.org/publications/dp20826" target="_blank">Tariffs and Technological Hegemony</a> (with Luca Fornaro).  
-*CEPR Discussion Paper*, 20826, First version: October 2025, This version: June 2026, *Revise and Resubmit at IMF Economic Review*. <a href="tradetech_june2026.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
-- <a href="https://cepr.org/publications/dp20149" target="_blank">Fiscal Stagnation</a> (with Luca Fornaro).  
-*CEPR Discussion Paper*, 20149, First version: April 2025, This version: June 2026. <a href="fistag_june2026.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
+- <a href="tradetech_june2026.pdf" target="_blank">Tariffs and Technological Hegemony</a> (with Luca Fornaro).  
+*CEPR Discussion Paper*, 20826, First version: October 2025, This version: June 2026, *Revise and Resubmit at IMF Economic Review*. <a href="https://cepr.org/publications/dp20826" target="_blank"><img border="0" alt="X" src="cepr.png" width="30" height="30"></a>  <a href="https://cepr.org/voxeu/columns/tariffs-and-technological-hegemony" target="_blank"><img border="0" alt="X" src="voxeu.png" width="24" height="24"></a> 
+- <a href="fistag_june2026.pdf" target="_blank">Fiscal Stagnation</a> (with Luca Fornaro).  
+*CEPR Discussion Paper*, 20149, First version: April 2025, This version: June 2026. <a href="https://cepr.org/publications/dp20149" target="_blank"><img border="0" alt="X" src="cepr.png" width="30" height="30"></a>  <a href="https://cepr.org/voxeu/columns/fiscal-stagnation" target="_blank"><img border="0" alt="X" src="voxeu.png" width="24" height="24"></a>  
 - <a href="https://cepr.org/publications/dp16837" target="_blank">Fear of Hiking? Rising Interest Rates in Times of High Public Debt</a> (with Leopold Zessner-Spitzenberg).  
 *CEPR Discussion Paper*, 16837, January 2024. <a href="FearOfHiking_Jan2024.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
 - <a href="https://cepr.org/publications/dp16416" target="_blank">Monetary Policy in the Age of Automation</a> (with Luca Fornaro).  
