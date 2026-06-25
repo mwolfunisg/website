@@ -36,7 +36,7 @@ I am a macroeconomist with broad research interests in international economics, 
 
 ### Working Papers
 - <a href="https://cepr.org/publications/dp21412" target="_blank">Macroeconomic Policies for AI</a> (with Luca Fornaro).  
-*CEPR Discussion Paper*, 21412, April 2026. <a href="AIslump_april2026.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a> <a href="AIslump_april2026.pdf" target="_blank"><img border="0" alt="X" src="voxeu.png" width="12" height="12"></a>
+*CEPR Discussion Paper*, 21412, April 2026. <a href="AIslump_april2026.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a> <a href="AIslump_april2026.pdf" target="_blank"><img border="0" alt="X" src="voxeu.png" width="14" height="14"></a>
 - <a href="https://cepr.org/publications/dp21253" target="_blank">Industrial Policies, Global Imbalances and Technological Hegemony</a> (with Ambrogio Cesa-Bianchi, Andrea Ferrero and Luca Fornaro).  
 *CEPR Discussion Paper*, 21253, March 2026. <a href="ipgith_jan2026.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a>
 - <a href="https://cepr.org/publications/dp21161" target="_blank">Financial Dominance and Macroeconomic Expectations</a> (with Leopold Zessner-Spitzenberg).  
