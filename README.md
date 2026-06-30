@@ -40,15 +40,15 @@ I am a macroeconomist with broad research interests in international economics, 
 - <a href="ipgith_jan2026.pdf" target="_blank">Industrial Policies, Global Imbalances and Technological Hegemony</a> (with Ambrogio Cesa-Bianchi, Andrea Ferrero and Luca Fornaro).   
 *CEPR Discussion Paper*, 21253, March 2026.  <a href="https://cepr.org/publications/dp21253" target="_blank">(CEPR)</a>  <a href="https://cepr.org/voxeu/columns/industrial-policies-global-imbalances-and-technological-hegemony" target="_blank">(VoxEU)</a>  <a href="https://www.economist.com/finance-and-economics/2026/04/16/global-imbalances-are-back-whos-to-blame" target="_blank">(The Economist)</a>  
 - <a href="dominance_feb2026.pdf" target="_blank">Financial Dominance and Macroeconomic Expectations</a> (with Leopold Zessner-Spitzenberg).  
-*CEPR Discussion Paper*, 21161, February 2026. <a href="https://cepr.org/publications/dp21161" target="_blank"><img border="0" alt="X" src="cepr.png" width="30" height="16"></a>     
+*CEPR Discussion Paper*, 21161, February 2026. <a href="https://cepr.org/publications/dp21161" target="_blank">(CEPR)</a>  
 - <a href="tradetech_june2026.pdf" target="_blank">Tariffs and Technological Hegemony</a> (with Luca Fornaro).  
-*CEPR Discussion Paper*, 20826, First version: October 2025, This version: June 2026, *Revise and Resubmit at IMF Economic Review*. <a href="https://cepr.org/publications/dp20826" target="_blank"><img border="0" alt="X" src="cepr.png" width="30" height="16"></a>  <a href="https://cepr.org/voxeu/columns/tariffs-and-technological-hegemony" target="_blank"><img border="0" alt="X" src="voxeu.png" width="16" height="16"></a> 
+*CEPR Discussion Paper*, 20826, First version: October 2025, This version: June 2026, *Revise and Resubmit at IMF Economic Review*.  <a href="https://cepr.org/publications/dp20826" target="_blank">(CEPR)</a>  <a href="https://cepr.org/voxeu/columns/tariffs-and-technological-hegemony" target="_blank">(VoxEU)</a>  
 - <a href="fistag_june2026.pdf" target="_blank">Fiscal Stagnation</a> (with Luca Fornaro).  
-*CEPR Discussion Paper*, 20149, First version: April 2025, This version: June 2026. <a href="https://cepr.org/publications/dp20149" target="_blank"><img border="0" alt="X" src="cepr.png" width="30" height="16"></a>  <a href="https://cepr.org/voxeu/columns/fiscal-stagnation" target="_blank"><img border="0" alt="X" src="voxeu.png" width="16" height="16"></a>  
+*CEPR Discussion Paper*, 20149, First version: April 2025, This version: June 2026.  <a href="https://cepr.org/publications/dp20149" target="_blank">(CEPR)</a>  <a href="https://cepr.org/voxeu/columns/fiscal-stagnation" target="_blank">(VoxEU)</a>   
 - <a href="FearOfHiking_Jan2024.pdf" target="_blank">Fear of Hiking? Rising Interest Rates in Times of High Public Debt</a> (with Leopold Zessner-Spitzenberg).  
-*CEPR Discussion Paper*, 16837, January 2024. <a href="https://cepr.org/publications/dp16837" target="_blank"><img border="0" alt="X" src="cepr.png" width="30" height="16"></a> 
+*CEPR Discussion Paper*, 16837, January 2024. <a href="https://cepr.org/publications/dp16837" target="_blank">(CEPR)</a>   
 - <a href="mpaut_sept2022.pdf" target="_blank">Monetary Policy in the Age of Automation</a> (with Luca Fornaro).  
-*CEPR Discussion Paper*, 16416, September 2022. <a href="https://cepr.org/publications/dp16416" target="_blank"><img border="0" alt="X" src="cepr.png" width="30" height="16"></a> 
+*CEPR Discussion Paper*, 16416, September 2022. <a href="https://cepr.org/publications/dp16416" target="_blank">(CEPR)</a>   
 
 ### Other Writings
 - <a href="https://legrandcontinent.eu/fr/2026/05/12/pourquoi-le-dollar-est-de-nouveau-un-piege-imperial/" target="_blank">Pourquoi le dollar est de nouveau un piège impérial</a> (with Gianluca Benigno and Luca Fornaro), article written for Le Grand Continent (in French), May 2025.  
