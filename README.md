@@ -3,7 +3,8 @@ I am an Associate Professor of Monetary Economics at the University of St. Galle
 I am a macroeconomist with broad research interests in international economics, monetary economics and economic growth. My work is mostly in applied theory. I have been awarded a 2025 SNSF Starting Grant (Swiss ERC Starting Grant equivalent) for my work connecting debt dynamics and endogenous productivity growth.
 
 ### News
-- 06/26 New versions of my papers "Fiscal Stagnation" and "Tariffs and Technological Hegemony"
+- 06/26 "Tariffs and Technological Hegemony" accepted for publication at IMF Economic Review
+- 06/26 New versions of "Fiscal Stagnation" and "Tariffs and Technological Hegemony"
 - 04/26 New working paper "Macroeconomic Policies for AI" (with Luca Fornaro)
 - 02/26 I've been promoted to Associate Professor (with tenure)
 - 02/26 New working paper "Financial Dominance and Macroeconomic Expectations" (with Leopold Zessner-Spitzenberg)
