@@ -14,9 +14,10 @@ I am a macroeconomist with broad research interests in international economics, 
 - 04/25 I received the University of St. Gallen's Latsis Prize for outstanding early-career research
 
 ### Publications
-- <a href="https://www.aeaweb.org/articles?id=10.1257/aer.20211792" target="_blank">The Global Financial Resource Curse</a> (with Gianluca Benigno and Luca Fornaro).   
-*American Economic Review*, 115(1), January 2025.
-<a href="./globfincurse_August2024.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a> <a href="./globfincurse_OnlineAppendix.pdf" target="_blank"><img border="0" alt="X" src="plus.png" width="12" height="12"></a> <a href="https://www.openicpsr.org/openicpsr/project/208605/version/V1/view" target="_blank"><img border="0" alt="X" src="tool.png" width="12" height="12"></a>
+- <a href="tradetech_june2026.pdf" target="_blank">Tariffs and Technological Hegemony</a> (with Luca Fornaro).  
+*IMF Economic Review, forthcoming*. <a href="https://cepr.org/publications/dp20826" target="_blank">(CEPR)</a>  <a href="https://cepr.org/voxeu/columns/tariffs-and-technological-hegemony" target="_blank">(VoxEU)</a>  
+- <a href="./globfincurse_August2024.pdf" target="_blank">The Global Financial Resource Curse</a> (with Gianluca Benigno and Luca Fornaro).   
+*American Economic Review*, 115(1), January 2025.  <a href="https://www.aeaweb.org/articles?id=10.1257/aer.20211792" target="_blank">(Published Version)</a>  <a href="./globfincurse_OnlineAppendix.pdf" target="_blank">(Online Appendix)</a>  <a href="https://www.openicpsr.org/openicpsr/project/208605/version/V1/view" target="_blank">(Replication)</a>  
 - <a href="https://www.aeaweb.org/articles?id=10.1257/mac.20210212&&from=f" target="_blank">Delayed Overshooting: The Case for Information Rigidities</a> (with Thomas Hettig and Gernot Müller).     
 *American Economic Journal: Macroeconomics*, 16(3), July 2024.
 <a href="./DelayedOvershooting_2023Feb.pdf" target="_blank"><img border="0" alt="X" src="arrow.png" width="12" height="12"></a> <a href="https://www.aeaweb.org/content/file?id=21024" target="_blank"><img border="0" alt="X" src="plus.png" width="12" height="12"></a> <a href="https://www.openicpsr.org/openicpsr/project/193087/version/V1/view" target="_blank"><img border="0" alt="X" src="tool.png" width="12" height="12"></a>
@@ -41,8 +42,6 @@ I am a macroeconomist with broad research interests in international economics, 
 *CEPR Discussion Paper*, 21253, March 2026.  <a href="https://cepr.org/publications/dp21253" target="_blank">(CEPR)</a>  <a href="https://cepr.org/voxeu/columns/industrial-policies-global-imbalances-and-technological-hegemony" target="_blank">(VoxEU)</a>  <a href="https://www.economist.com/finance-and-economics/2026/04/16/global-imbalances-are-back-whos-to-blame" target="_blank">(The Economist)</a>  
 - <a href="dominance_feb2026.pdf" target="_blank">Financial Dominance and Macroeconomic Expectations</a> (with Leopold Zessner-Spitzenberg).  
 *CEPR Discussion Paper*, 21161, February 2026. <a href="https://cepr.org/publications/dp21161" target="_blank">(CEPR)</a>  
-- <a href="tradetech_june2026.pdf" target="_blank">Tariffs and Technological Hegemony</a> (with Luca Fornaro).  
-*CEPR Discussion Paper*, 20826, First version: October 2025, This version: June 2026, *Revise and Resubmit at IMF Economic Review*.  <a href="https://cepr.org/publications/dp20826" target="_blank">(CEPR)</a>  <a href="https://cepr.org/voxeu/columns/tariffs-and-technological-hegemony" target="_blank">(VoxEU)</a>  
 - <a href="fistag_june2026.pdf" target="_blank">Fiscal Stagnation</a> (with Luca Fornaro).  
 *CEPR Discussion Paper*, 20149, First version: April 2025, This version: June 2026.  <a href="https://cepr.org/publications/dp20149" target="_blank">(CEPR)</a>  <a href="https://cepr.org/voxeu/columns/fiscal-stagnation" target="_blank">(VoxEU)</a>   
 - <a href="FearOfHiking_Jan2024.pdf" target="_blank">Fear of Hiking? Rising Interest Rates in Times of High Public Debt</a> (with Leopold Zessner-Spitzenberg).  
@@ -53,7 +52,7 @@ I am a macroeconomist with broad research interests in international economics, 
 ### Other Writings
 - <a href="https://legrandcontinent.eu/fr/2026/05/12/pourquoi-le-dollar-est-de-nouveau-un-piege-imperial/" target="_blank">Pourquoi le dollar est de nouveau un piège impérial</a> (with Gianluca Benigno and Luca Fornaro), article written for Le Grand Continent (in French), May 2025.  
 - <a href="corona_v2.pdf" target="_blank">Covid-19 Coronavirus and Macroeconomic Policy</a> (with Luca Fornaro).  
-*CEPR Discussion Paper* 14529, March 2020. <a href="https://cepr.org/publications/dp14529" target="_blank"><img border="0" alt="X" src="cepr.png" width="30" height="16"></a>  <a href="https://cepr.org/voxeu/columns/coronavirus-and-macroeconomic-policy" target="_blank"><img border="0" alt="X" src="voxeu.png" width="16" height="16"></a>   
+*CEPR Discussion Paper* 14529, March 2020.  <a href="https://cepr.org/publications/dp14529" target="_blank">(CEPR)</a>  <a href="https://cepr.org/voxeu/columns/coronavirus-and-macroeconomic-policy" target="_blank">(VoxEU)</a>     
 
 ### Current Teaching
 - Monetary Economics (Bachelor).
