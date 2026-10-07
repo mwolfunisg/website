@@ -16,7 +16,7 @@ I am a macroeconomist with broad research interests in international economics, 
 
 ### Publications
 - <a href="tradetech_june2026.pdf" target="_blank">Tariffs and Technological Hegemony</a> (with Luca Fornaro).  
-*IMF Economic Review, forthcoming*. <a href="https://cepr.org/publications/dp20826" target="_blank">(CEPR)</a>  <a href="https://cepr.org/voxeu/columns/tariffs-and-technological-hegemony" target="_blank">(VoxEU)</a>  
+*IMF Economic Review*, September 2026. <a href="https://link.springer.com/article/10.1057/s41308-026-00328-y" target="_blank">(Published Version)</a>  <a href="https://cepr.org/voxeu/columns/tariffs-and-technological-hegemony" target="_blank">(VoxEU)</a>  
 - <a href="./globfincurse_August2024.pdf" target="_blank">The Global Financial Resource Curse</a> (with Gianluca Benigno and Luca Fornaro).   
 *American Economic Review*, 115(1), January 2025.  <a href="https://www.aeaweb.org/articles?id=10.1257/aer.20211792" target="_blank">(Published Version)</a>  <a href="./globfincurse_OnlineAppendix.pdf" target="_blank">(Online Appendix)</a>  <a href="https://www.openicpsr.org/openicpsr/project/208605/version/V1/view" target="_blank">(Replication)</a>  
 - <a href="./DelayedOvershooting_2023Feb.pdf" target="_blank">Delayed Overshooting: The Case for Information Rigidities</a> (with Thomas Hettig and Gernot Müller).     
@@ -49,7 +49,7 @@ I am a macroeconomist with broad research interests in international economics, 
 *CEPR Discussion Paper*, 16416, September 2022. <a href="https://cepr.org/publications/dp16416" target="_blank">(CEPR)</a>   
 
 ### Other Writings
-- <a href="https://legrandcontinent.eu/fr/2026/05/12/pourquoi-le-dollar-est-de-nouveau-un-piege-imperial/" target="_blank">Pourquoi le dollar est de nouveau un piège impérial</a> (with Gianluca Benigno and Luca Fornaro), article written for Le Grand Continent (in French), May 2025.  
+- <a href="https://legrandcontinent.eu/fr/2026/05/12/pourquoi-le-dollar-est-de-nouveau-un-piege-imperial/" target="_blank">Pourquoi le dollar est de nouveau un piège impérial</a> (with Gianluca Benigno and Luca Fornaro), article written for Le Grand Continent (in French), May 2026.  
 - <a href="corona_v2.pdf" target="_blank">Covid-19 Coronavirus and Macroeconomic Policy</a> (with Luca Fornaro).  
 *CEPR Discussion Paper* 14529, March 2020.  <a href="https://cepr.org/publications/dp14529" target="_blank">(CEPR)</a>  <a href="https://cepr.org/voxeu/columns/coronavirus-and-macroeconomic-policy" target="_blank">(VoxEU)</a>     
 
