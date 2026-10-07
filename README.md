@@ -16,7 +16,7 @@ I am a macroeconomist with broad research interests in international economics, 
 
 ### Publications
 - <a href="tradetech_june2026.pdf" target="_blank">Tariffs and Technological Hegemony</a> (with Luca Fornaro).  
-*IMF Economic Review*, September 2026. <a href="https://link.springer.com/article/10.1057/s41308-026-00328-y" target="_blank">(Published Version)</a>  <a href="https://cepr.org/voxeu/columns/tariffs-and-technological-hegemony" target="_blank">(VoxEU)</a>  
+*IMF Economic Review*, September 2026. <a href="https://link.springer.com/article/10.1057/s41308-026-00328-y" target="_blank">(Published Version)</a>  
 - <a href="./globfincurse_August2024.pdf" target="_blank">The Global Financial Resource Curse</a> (with Gianluca Benigno and Luca Fornaro).   
 *American Economic Review*, 115(1), January 2025.  <a href="https://www.aeaweb.org/articles?id=10.1257/aer.20211792" target="_blank">(Published Version)</a>  <a href="./globfincurse_OnlineAppendix.pdf" target="_blank">(Online Appendix)</a>  <a href="https://www.openicpsr.org/openicpsr/project/208605/version/V1/view" target="_blank">(Replication)</a>  
 - <a href="./DelayedOvershooting_2023Feb.pdf" target="_blank">Delayed Overshooting: The Case for Information Rigidities</a> (with Thomas Hettig and Gernot Müller).     
